@@ -1,4 +1,4 @@
-country = input("welcome to your travel partner, where would you like to go?(Type the country name with a capital letter)")
+country = input("welcome to your travel partner, where would you like to go?(Type choice to see what country we support")
 choice=print("here are the countries we currently support")
 print("we currently support travel to America, Japan, Italy, Canada, Mexico, France, Germany, China and India")
 country= input("where would you like to go?(Type the country name with a capital letter)")
@@ -127,3 +127,4 @@ elif country==("India"):
     print ("thats all we need,you may travel to India")
 else:
  print("sorry but we do not support some countries yet")
+
